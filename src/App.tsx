@@ -1,7 +1,7 @@
 import React from 'react';
 import {BrowserRouter, Router} from 'react-router-dom'
 import Routers from './routes';
-
+import axios from 'axios';
 
 import GlobalStyle from './styles/global';
 
